@@ -1,0 +1,6 @@
+*.swp
+*.py~
+*.csv~
+*.pyc
+*.jpg
+email_credentials.py
