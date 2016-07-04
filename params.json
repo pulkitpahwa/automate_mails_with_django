@@ -1,0 +1,6 @@
+{
+  "name": "Automate mails with django",
+  "tagline": "Django project to automate the process of sending mails.",
+  "body": "#Mail Sender\r\n\r\n## Ideology \r\n* The Ideology behind this repo is to automate the processes of sending mails. \r\n* I use this project whenever I have to send similar mails to more than 3 people.\r\n\r\n## Setup\r\n* In djangoMailer/djangoMailer folder, change file name of sample_email_credentials.py  to email_credentials.py \r\n* Change email_credentials according to your own settings\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
