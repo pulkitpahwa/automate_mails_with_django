@@ -5,5 +5,8 @@
 * I use this project whenever I have to send similar mails to more than 3 people.
 
 ## Setup
+* Install the project by running the scripts:
+  `pip install -r requirements.txt`
+
 * In djangoMailer/djangoMailer folder, change file name of sample_email_credentials.py  to email_credentials.py 
 * Change email_credentials according to your own settings
